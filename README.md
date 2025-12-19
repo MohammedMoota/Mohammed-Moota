@@ -36,14 +36,15 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 </div>
 
 ### 🛠️ The Arsenal
+*My modern tech stack, visualized.*
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| 🧠 **AI & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) |
-| 🌐 **Web Development** | ![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) |
-| 🗄️ **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) |
-| ⚙️ **Tools & Remote** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF3526?style=flat&logo=anydesk&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E4482?style=flat&logo=teamviewer&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) |
-| 📂 **Office & Productivity** | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,react,html,css,js,bootstrap,mysql,postman,anaconda,git,github,vscode&perline=8&theme=light" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -59,15 +60,11 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
     <td align="center"><b>Top Languages</b><br><i>What I code in most</i></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=333333&icon_color=2094F3&hide_title=true" height="150" alt="stats graph" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=transparent&hide_border=true&title_color=2094F3&text_color=333333&icon_color=2094F3&hide_title=true" height="150" alt="languages graph" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3&hide_title=true" height="150" alt="stats graph" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=transparent&hide_border=true&title_color=2094F3&text_color=2094F3&icon_color=2094F3&hide_title=true" height="150" alt="languages graph" /></td>
   </tr>
 </table>
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ### 📈 Contribution Timeline
@@ -83,6 +80,13 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <h3>⚡ Programmer's Humor</h3>
   <i>Just a random joke to brighten your day! (Refreshes on every visit)</i><br><br>
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌍 Global Connection</h3>
+  <img src="https://github-profile-globe.vercel.app/api?username=mohammedmoota&bg_color=00000000&color=2094F3" alt="Visitor Globe" />
 </div>
 
 <br>
