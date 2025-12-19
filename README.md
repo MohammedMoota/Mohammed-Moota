@@ -45,10 +45,10 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 ### 📊 Coding Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=cobalt&hide_border=true&bg_color=000000" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=cobalt&hide_border=true&bg_color=000000" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=cobalt&hide_border=true&bg_color=000000" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=cobalt&hide_border=true&bg_color=000000" height="170" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME_HERE/YOUR_GITHUB_USERNAME_HERE/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Ymohammedmoota/mohammedmoota/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
