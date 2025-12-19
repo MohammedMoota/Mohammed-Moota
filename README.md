@@ -19,7 +19,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 👨‍💻 About Me
 I am a final-year **Data Science Student** with a passion for building things that work. I don't just analyze data; I build the websites and systems to display it.
@@ -29,7 +31,9 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 * 🧠 **I love:** Training models, automating workflows, and turning raw data into meaningful insights.
 * 🛠️ **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 🛠️ The Arsenal
 
@@ -41,7 +45,9 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 | ⚙️ **Tools & Remote** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) ![AnyDesk](https://img.shields.io/badge/AnyDesk-EF3526?style=flat&logo=anydesk&logoColor=white) ![TeamViewer](https://img.shields.io/badge/TeamViewer-0E4482?style=flat&logo=teamviewer&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) |
 | 📂 **Office & Productivity** | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) |
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📊 Coding Stats & Habits
 
@@ -60,7 +66,9 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 </div>
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ### 📈 Contribution Timeline
 > This chart tracks my daily coding activity over the past 30 days. Peaks in the line indicate days with high contribution volume.
