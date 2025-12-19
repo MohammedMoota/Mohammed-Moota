@@ -2,9 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50)
 
-### 🏆 Achievements & Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedmoota&theme=flat&no-frame=true&margin-w=4" alt="mohammedmoota trophies" />
+<a href="https://github.com/mohammedmoota">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmoota&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 <a href="https://git.io/typing-svg">
