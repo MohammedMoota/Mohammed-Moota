@@ -32,10 +32,6 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 * 🛠️ **My Goal:** To combine the power of AI with modern Web Development to create smart, automated systems that solve real-world problems.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/ManulG/77026d365cc85d8da7cb992794eb888c/raw/e33d45f34045f2a1cb6c8574d322fc3b342416b7/cat.gif" width="60" alt="Pixel Cat Walking">
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -86,9 +82,5 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/emails/matrix.gif" width="100%" alt="Matrix Rain">
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" alt="Footer" />
