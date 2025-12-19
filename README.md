@@ -2,6 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50)
 
+### 🏆 Achievements & Trophies
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammedmoota&theme=flat&no-frame=true&margin-w=4" alt="mohammedmoota trophies" />
 </a>
@@ -45,14 +46,27 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 ---
 
-### 📊 Coding Activity
+### 📊 Coding Stats & Habits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3" height="150" alt="languages graph" />
+
+<table>
+  <tr>
+    <td align="center"><b>My GitHub Stats</b><br><i>Commits, PRs, and Issues</i></td>
+    <td align="center"><b>Top Languages</b><br><i>What I code in most</i></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3&hide_title=true" height="150" alt="stats graph" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&layout=compact&theme=transparent&hide_border=true&title_color=2094F3&text_color=ffffff&icon_color=2094F3&hide_title=true" height="150" alt="languages graph" /></td>
+  </tr>
+</table>
+
 </div>
 
 <br>
+
+### 🏙️ Contribution History
+*This graph visualizes my coding contributions over time as a 3D city. The taller the building, the more work I did that day.*
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="3D City Graph" />
