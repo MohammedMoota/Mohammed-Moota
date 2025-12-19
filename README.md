@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohammed%20Moota&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Web%20Dev&descSize=20&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2094F3&center=true&vCenter=true&width=500&lines=Building+Smart+Web+Apps;Training+Deep+Learning+Models;Automating+Data+Workflows;Turning+Data+Into+Insights" alt="Typing SVG" />
@@ -62,13 +62,6 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 <br>
 
-<div align="center">
-  <b>⚡ Programmer's Corner</b><br>
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
-<br>
-
 ### 📈 Contribution Timeline
 > This chart tracks my daily coding activity over the past 30 days. Peaks in the line indicate days with high contribution volume.
 
@@ -76,4 +69,14 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedmoota&bg_color=0d1117&color=2094F3&line=2094F3&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Line Graph" />
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90)
+<br>
+
+<div align="center">
+  <h3>⚡ Programmer's Humor</h3>
+  <i>Just a random joke to brighten your day! (Refreshes on every visit)</i><br><br>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" width="100%" alt="Footer" />
