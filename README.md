@@ -47,16 +47,20 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
+### 📊 Coding Stats & Habits
+
 <div align="center">
-  
-  <h3>📊 My GitHub Stats</h3>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedMoota&theme=radical" alt="profile details" />
 
-  <br><br>
-
-  <p><b>Top Languages</b><br><i>Sorted by Usage</i></p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMoota&theme=radical" alt="languages graph" />
+<table>
+  <tr>
+    <td align="center"><b>My GitHub Stats</b><br><i>Total Productivity</i></td>
+    <td align="center"><b>Top Languages</b><br><i>Sorted by Usage</i></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=MohammedMoota&show_icons=true&theme=radical&layout=compact&hide_border=true&count_private=true" height="170" alt="github stats" /></td>
+    <td valign="top"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedMoota&theme=radical" height="170" alt="languages graph" /></td>
+  </tr>
+</table>
 
 </div>
 
