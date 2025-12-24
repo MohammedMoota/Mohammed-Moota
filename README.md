@@ -56,12 +56,12 @@ I specialize in **Web Development** (Frontend & Backend) and **Artificial Intell
 
 <table>
   <tr>
-    <td align="center"><b>My GitHub Stats</b><br><i>Commits, PRs, and Issues</i></td>
+    <td align="center"><b>My Coding Streak</b><br><i>Continuous days of code</i></td>
     <td align="center"><b>Top Languages</b><br><i>Sorted by Usage</i></td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=mohammedmoota&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="stats graph" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedmoota&langs_count=10&theme=tokyonight" height="" alt="languages graph" /></td>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMoota&theme=radical&hide_border=true" height="170" alt="streak stats" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMoota&theme=radical&hide_border=true&layout=compact&langs_count=6" height="170" alt="languages graph" /></td>
   </tr>
 </table>
 
